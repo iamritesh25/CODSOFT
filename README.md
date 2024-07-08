@@ -2,8 +2,7 @@ CODSOFT ARTIFICIAL INTELLIGENCE INTERNSHIPS TASKS
 I have uploaded the CODES and screenshots of OUTPUT.
 
 TASK-1: CHATBOT WITH RULE-BASED RESPONSES
-Build a basic chatbot capable of engaging in simple conversations. It responds to greetings, provides information about itself, shares jokes and interesting facts, 
-and offers the current time upon request. Users can interact with the chatbot The chatbot continues the conversation until the user types "bye" to exit. It's a beginner-friendly project suitable for
+Build a basic chatbot capable of engaging in simple conversations. It responds to greetings, provides information about itself, upon request. Users can interact with the chatbot The chatbot continues the conversation until the user types "bye" to exit. It's a beginner-friendly project suitable for
 learning about natural language processing and basic AI concepts. This project serves as an educational resource for Python developers interested in creating their own chatbots.
 
 TASK-2: TIC-TAC-TOE AI GAME
